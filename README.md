@@ -11,3 +11,4 @@ This project analyzes economic and demographic trends in Iowa using liquor store
 ## How to Run
 1. Create a PostgreSQL database.
 2. Run `table_creation.sql` to create tables.
+3. Run `data_cleaning.sql` to clean data for use.
