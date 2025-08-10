@@ -1,7 +1,7 @@
 # Iowa State Database Project
 
 ## Overview
-This project analyzes economic and demographic trends in Iowa using liquor store sales, insurance company data, housing, employment, and GDP.
+This project focuses on SQL, Python, and data visualization workflows—constructing a relational database from 11 publicly available State of Iowa datasets (data.gov), running sample queries, and producing example visual outputs..
 
 ## Files
 - `table_creation.sql` – Database structure
