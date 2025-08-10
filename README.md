@@ -7,8 +7,12 @@ This project focuses on SQL, Python, and data visualization workflows—construc
 - `table_creation.sql` – Database structure
 - `data_cleaning.sql` – Data cleaning
 - `Schema.png` – Entity Relationship Diagram
+- `SQL_Queries.sql` - Example Queries and explanations
+- `visualizations.ipynb` - Select visualizations from sample queries
 
 ## How to Run
 1. Create a PostgreSQL database.
 2. Run `table_creation.sql` to create tables.
 3. Run `data_cleaning.sql` to clean data for use.
+4. Run `SQL_Queries.sql` for sample database queries
+5. Run `visualizations.ipynb` for python vizualizations based on select sample queries
